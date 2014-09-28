@@ -3,3 +3,6 @@
 # cannot take spaces
 rild.libargs=-d /dev/smd0
 persist.radio.mode_pref_nv10=1
+
+# in-call recording
+persist.call_recording.src=4
