@@ -1,1 +1,3 @@
 add_lunch_combo cm_jflte-eng
+add_lunch_combo cm_jflte-user
+add_lunch_combo cm_jflte-userdebug
